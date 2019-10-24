@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Address: 123, Jalan Bukit Besar , Ulu sungai ayam, 34567 Batu Kepala
+        \n\nEducation:
+        \n\n SMK Kesian, Batu Kepala
+        \n\nTAR UC, KL
+        \n\nWorking Experience:
+        \n\n ultraman
+        \n\n Monkey King
+        \n\n Monster Hunter
+    </string>
+</resources>
